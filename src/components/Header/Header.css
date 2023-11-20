@@ -1,0 +1,44 @@
+.h-wrapper {
+color: white ;
+margin: 0px 100px;
+}
+
+
+.h-container {
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: var(--secondary);
+}
+.h-menu {
+    gap: 2rem;
+}
+.h-menu:hover {
+    cursor: pointer;
+}
+
+@media  screen and (max-width: 768px) {
+    .h-wrapper {
+        color: white ;
+        margin: 0px 40px;
+        }
+        .h-menu {
+            gap: 1rem;
+        }
+        
+}
+@media  screen and (max-width: 425px) {
+    .h-wrapper {
+        color: white ;
+        margin: 0px 10px;
+        }    
+
+        .h-container > img {
+       width: 25%;
+        }
+
+    .h-menu {
+            display: none;
+        }
+        
+}

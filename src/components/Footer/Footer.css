@@ -1,0 +1,76 @@
+.f-wrapper {
+    margin: 0px 100px;    
+
+}
+
+.f-container {
+    justify-content: space-between;
+}
+
+.f-left {
+    gap: 1rem;
+}
+
+.f-menu {
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
+
+.attribution {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 40px;
+}
+.attribution > span {
+    color: blue;
+    margin-left: 5px;
+    font-weight: 600;
+}
+
+
+@media  screen and (max-width: 768px) {
+    .f-wrapper {
+        margin: 0px 50px;    
+    
+    }
+
+    .f-menu {
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+        font-weight: 400;
+    }
+}
+@media  screen and (max-width: 425px) {
+    .f-wrapper {
+        margin: 0px 10px;    
+    
+    }
+
+    .f-menu {
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+        font-weight: 500;
+    }
+    .f-menu span{
+       font-size: 15px;
+    }
+}
+@media  screen and (max-width: 375px) {
+    .f-wrapper {
+        margin: 0px 10px;    
+    
+    }
+
+    .f-menu {
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+        font-weight: 500;
+    }
+    .f-menu span{
+       font-size: 12px;
+    }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Maitama Garden",
+    "price": "47,043",
+    "detail": "150, Colorado Street, Off Ibrahim Babangida Way, Minister's Hill, Maitama, FCT Abuja.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asokoro Bulevard",
+    "price": "66,353",
+    "detail": "9 Julius Inyerere Street, Off Yakubu Gowon Crescent, Governor's Court, Asokoro, FCT Abuja.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Gwarimpa Estate",
+    "price": "35,853",
+    "detail": "180 PrinceVille Estate, Off Jimmy Carta Street, 1st Avenue, Gwarinpa, FCT Abuja.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Jabi Lake View",
+    "price": "47,043",
+    "detail": "Jakarta Garden City Street, Off Ebute Street, Opposite Cubana Grand Hotel, Jabi, FCT Abuja.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Guzape Garden City",
+    "price": "66,353",
+    "detail": "Pahlawan Street, Off Dreamsville street, Guzape, FCT Abuja. ",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Life Camp Serinity",
+    "price": "35,853",
+    "detail": "15 Hamza Crescent, Off Kings Court, Royal Avenue, Life Camp, FCT Abuja.",
+    "image": "./r3.png"
+  }
+]
